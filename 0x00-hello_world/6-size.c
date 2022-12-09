@@ -2,7 +2,7 @@
 /**
  * main - Entry
  * Return: Always 0
- */
+*/
 int main(void)
 {
 	printf("size of a char: %i byte(s)\n", sizeof(char));
@@ -12,4 +12,3 @@ int main(void)
 	print("size of a float int: %i byte(s)\n", sizeof(float));
 	return (0);
 }
-
