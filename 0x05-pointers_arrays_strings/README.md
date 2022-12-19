@@ -1,1 +1,1 @@
-I do not fear computers. I fear the lack of them
+I can only go one way. I've not got a reverse gear
