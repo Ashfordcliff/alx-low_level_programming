@@ -1,1 +1,1 @@
-Numbers have life; they're not just symbols on paper
+Noise is a buffer, more effective than cubicles or booth walls
