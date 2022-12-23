@@ -1,1 +1,1 @@
-Noise is a buffer, more effective than cubicles or booth walls
+It is the addition of strangeness to beauty that constitutes the romantic character in art
