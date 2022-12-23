@@ -1,1 +1,1 @@
-Numbers have life; they're not just symbols on paper
+A dream doesn't become reality through magic; it takes sweat, determination and hard work
