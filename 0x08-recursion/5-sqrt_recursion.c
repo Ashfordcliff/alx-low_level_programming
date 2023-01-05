@@ -17,12 +17,12 @@ int helperFunction(int num, int pSqrt)
 		if ((pSqrt * pSqrt) > num)
 			return (-1);
 		else
-			return (helperFunction(nim, pSqrt + 1));
+			return (helperFunction(num, pSqrt + 1));
 	}
 }
 
 /**
- * _sqrt_recursion - returns the natural square root of a number
+ * _sqrt_recursion - returns the natural square root of a number.
  * @n: number to find sqrt of.
  *
  * Return: squareroot of n.
