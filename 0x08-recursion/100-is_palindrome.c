@@ -16,7 +16,7 @@ int _lenght(char *s)
  * @i: is the index
  * @lg: is the lenght of the string
  * @s: is the string
- * Return: 1 if is polindrome or 0 if not
+ * Return: 1 if is palindrome or 0 if not
  **/
 int checkp(int i, int lg, char *s)
 {
