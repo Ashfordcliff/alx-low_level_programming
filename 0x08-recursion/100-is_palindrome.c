@@ -2,9 +2,9 @@
 /**
  * _lenght - checks the lenght of a string
  * @s: is the string
- * Return the leng string
+ * Return: return of the leng string
  **/
-int _lenght(chat *s)
+int _lenght(char *s)
 {
 	if (*s == '\0')
 		return (0);
