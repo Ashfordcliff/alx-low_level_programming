@@ -2,7 +2,7 @@
 /**
  * _lenght - checks the lenght of a string
  * @s: is the string
- * Return: return of the leng string
+ * Return: return the leng of the string
  **/
 int _lenght(char *s)
 {
