@@ -3,7 +3,7 @@
 #include <string.h>
 
 /**
- * main - Program that adds positine numbers
+ * main - Program that adds positive numbers
  * @argc: This is the argument count
  * @argv: This is the argument vector
  *
