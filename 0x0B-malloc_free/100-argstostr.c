@@ -3,7 +3,7 @@
 /**
  * argstostr - concatenates all arguments of a program
  * @ac: argument count.
- * @v: pointer to array of size ac.
+ * @av: pointer to array of size ac.
  * Return: NULL if ac == 0 or av == null, pointer to new string.
  * NULL on fail.
  */
@@ -32,10 +32,11 @@ char *argstostr(int ac, char **av)
 	if (arg == NULL)
 		return (NULL);
 	i = 0;
+
 	while (i < ac)
 	{
 		j = 0;
-		while (av[i][j]);
+		while (av[i][j])
 		{
 			arg[k] = av[i][j];
 			j++;
