@@ -1,1 +1,1 @@
-It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe
+I will show you how great I am
