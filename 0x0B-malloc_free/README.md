@@ -1,1 +1,1 @@
-It's not bragging if you can back it up
+It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe
