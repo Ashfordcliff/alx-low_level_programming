@@ -1,1 +1,1 @@
-If you even dream of beating me you'd better wake up and apologize
+It's not bragging if you can back it up
