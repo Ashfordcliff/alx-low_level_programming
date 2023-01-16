@@ -1,1 +1,1 @@
-Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read
+A door is what a dog is perpetually on the wrong side of
