@@ -1,1 +1,1 @@
-File name
+Function-like macro
