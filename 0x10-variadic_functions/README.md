@@ -1,1 +1,1 @@
-To be is to be the value of a variable
+One woman's constant is another woman's variable
