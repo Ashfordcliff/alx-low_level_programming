@@ -27,13 +27,26 @@ void print_name_uppercase(char *name)
 	while (name[i])
 	{
 		if (name[i] >= 'a' && name[i] <= 'z')
-	{
-		putchar(name[i] + 'A' - 'a');
+		{
+			putchar(name[i] + 'A' - 'a');
+		}
+		else
+		{
+			putchar(name[i]);
+		}
+		i++;
 	}
-	else
-	{
-		putchar(name[i]);
-	}
-	i++;
-	}
+}
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+	print_name("Bob", print_name_as_is);
+	print_name("Bob Dylan", print_name_uppercase);
+	printf("\n");
+	return (0);
 }
